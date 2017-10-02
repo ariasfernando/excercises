@@ -1,0 +1,23 @@
+body, button{
+    font-family: 'Roboto';
+}
+header{
+    background-color: burlywood;
+    padding: 5px 2%;
+    position: relative;    
+}
+#sidebar{
+    background-color: khaki;
+    padding: 5px 2%;
+    width: 26%;
+    float: left;
+}
+#sidebar ul{
+    list-style: none;
+}
+#content{
+    background-color: oldlace;
+    padding: 5px 2%;
+    width: 66%;
+    float: right;
+}
